@@ -18,6 +18,7 @@ public abstract class Animal {
 	
 	//Abstract method
 	public abstract void eat(); 
+	public abstract void sleep();
 	
 	
 }
